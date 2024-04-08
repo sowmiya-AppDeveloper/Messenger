@@ -1,0 +1,7 @@
+ninja: Entering directory `/home/bi1466/sowmiya/Messenger/QuickChat/android/app/.cxx/RelWithDebInfo/v21f55q1/armeabi-v7a'
+[0/2] Re-checking globbed directories...
+[1/2] Re-running CMake...
+-- Configuring done
+-- Generating done
+FAILED: build.ninja 
+/home/bi1466/Android/Sdk/cmake/3.22.1/bin/cmake --regenerate-during-build -S/home/bi1466/sowmiya/Messenger/QuickChat/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup -B/home/bi1466/sowmiya/Messenger/QuickChat/android/app/.cxx/RelWithDebInfo/v21f55q1/armeabi-v7a

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "732539464658",
+    "project_id": "quickchat-d09b8",
+    "storage_bucket": "quickchat-d09b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732539464658:android:9d8301ed9471092d90f60b",
+        "android_client_info": {
+          "package_name": "com.quickchat.sowmiya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsUHNpkCL-aEYI6SXcSIaSNMRvuMJjZMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

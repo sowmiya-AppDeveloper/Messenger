@@ -1,0 +1,1 @@
+/home/bi1466/sowmiya/Messenger/QuickChat/android/app/build/intermediates/cxx/RelWithDebInfo/v21f55q1/obj/arm64-v8a

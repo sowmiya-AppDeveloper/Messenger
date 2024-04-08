@@ -1,0 +1,4 @@
+/home/bi1466/Android/Sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /home/bi1466/sowmiya/Messenger/QuickChat/android/app/.cxx/RelWithDebInfo/v21f55q1/armeabi-v7a \
+  clean

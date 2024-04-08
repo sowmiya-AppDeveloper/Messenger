@@ -1,0 +1,9 @@
+/home/bi1466/sowmiya/QuickChat/android/app/.cxx/Debug/1a5m682d/x86/CMakeFiles/appmodules.dir
+/home/bi1466/sowmiya/QuickChat/android/app/.cxx/Debug/1a5m682d/x86/CMakeFiles/edit_cache.dir
+/home/bi1466/sowmiya/QuickChat/android/app/.cxx/Debug/1a5m682d/x86/CMakeFiles/rebuild_cache.dir
+/home/bi1466/sowmiya/QuickChat/android/app/.cxx/Debug/1a5m682d/x86/RNCViewPager_autolinked_build/CMakeFiles/react_codegen_RNCViewPager.dir
+/home/bi1466/sowmiya/QuickChat/android/app/.cxx/Debug/1a5m682d/x86/RNCViewPager_autolinked_build/CMakeFiles/edit_cache.dir
+/home/bi1466/sowmiya/QuickChat/android/app/.cxx/Debug/1a5m682d/x86/RNCViewPager_autolinked_build/CMakeFiles/rebuild_cache.dir
+/home/bi1466/sowmiya/QuickChat/android/app/.cxx/Debug/1a5m682d/x86/RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir
+/home/bi1466/sowmiya/QuickChat/android/app/.cxx/Debug/1a5m682d/x86/RNVectorIconsSpec_autolinked_build/CMakeFiles/edit_cache.dir
+/home/bi1466/sowmiya/QuickChat/android/app/.cxx/Debug/1a5m682d/x86/RNVectorIconsSpec_autolinked_build/CMakeFiles/rebuild_cache.dir

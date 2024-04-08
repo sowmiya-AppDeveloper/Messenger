@@ -1,0 +1,16 @@
+# C/C++ build system timings
+generate_cxx_metadata
+  [gap of 10ms]
+  create-invalidation-state 79ms
+  generate-prefab-packages
+    [gap of 28ms]
+    exec-prefab 2737ms
+    [gap of 66ms]
+  generate-prefab-packages completed in 2831ms
+  execute-generate-process
+    exec-configure 1602ms
+    [gap of 830ms]
+  execute-generate-process completed in 2434ms
+  [gap of 575ms]
+generate_cxx_metadata completed in 5942ms
+

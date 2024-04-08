@@ -1,0 +1,178 @@
+CMake Error in CMakeLists.txt:
+  Imported target "ReactAndroid::fabricjni" includes non-existent path
+
+    "/home/bi1466/.gradle/caches/transforms-3/158b871a21f85526704b0e97f3449ad0/transformed/jetified-react-android-0.73.4-release/prefab/modules/fabricjni/include"
+
+  in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+
+  * The path was deleted, renamed, or moved to another location.
+
+  * An install or uninstall procedure did not complete successfully.
+
+  * The installation package was faulty and references files it does not
+  provide.
+
+
+
+CMake Error in /home/bi1466/sowmiya/Messenger/QuickChat/node_modules/@react-native-async-storage/async-storage/android/build/generated/source/codegen/jni/CMakeLists.txt:
+  Imported target "ReactAndroid::folly_runtime" includes non-existent path
+
+    "/home/bi1466/.gradle/caches/transforms-3/158b871a21f85526704b0e97f3449ad0/transformed/jetified-react-android-0.73.4-release/prefab/modules/folly_runtime/include"
+
+  in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+
+  * The path was deleted, renamed, or moved to another location.
+
+  * An install or uninstall procedure did not complete successfully.
+
+  * The installation package was faulty and references files it does not
+  provide.
+
+
+
+CMake Error in /home/bi1466/sowmiya/Messenger/QuickChat/node_modules/@react-native-camera-roll/camera-roll/android/build/generated/source/codegen/jni/CMakeLists.txt:
+  Imported target "ReactAndroid::folly_runtime" includes non-existent path
+
+    "/home/bi1466/.gradle/caches/transforms-3/158b871a21f85526704b0e97f3449ad0/transformed/jetified-react-android-0.73.4-release/prefab/modules/folly_runtime/include"
+
+  in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+
+  * The path was deleted, renamed, or moved to another location.
+
+  * An install or uninstall procedure did not complete successfully.
+
+  * The installation package was faulty and references files it does not
+  provide.
+
+
+
+CMake Error in /home/bi1466/sowmiya/Messenger/QuickChat/node_modules/lottie-react-native/android/build/generated/source/codegen/jni/CMakeLists.txt:
+  Imported target "ReactAndroid::folly_runtime" includes non-existent path
+
+    "/home/bi1466/.gradle/caches/transforms-3/158b871a21f85526704b0e97f3449ad0/transformed/jetified-react-android-0.73.4-release/prefab/modules/folly_runtime/include"
+
+  in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+
+  * The path was deleted, renamed, or moved to another location.
+
+  * An install or uninstall procedure did not complete successfully.
+
+  * The installation package was faulty and references files it does not
+  provide.
+
+
+
+CMake Error in /home/bi1466/sowmiya/Messenger/QuickChat/node_modules/react-native-gesture-handler/android/build/generated/source/codegen/jni/CMakeLists.txt:
+  Imported target "ReactAndroid::folly_runtime" includes non-existent path
+
+    "/home/bi1466/.gradle/caches/transforms-3/158b871a21f85526704b0e97f3449ad0/transformed/jetified-react-android-0.73.4-release/prefab/modules/folly_runtime/include"
+
+  in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+
+  * The path was deleted, renamed, or moved to another location.
+
+  * An install or uninstall procedure did not complete successfully.
+
+  * The installation package was faulty and references files it does not
+  provide.
+
+
+
+CMake Error in /home/bi1466/sowmiya/Messenger/QuickChat/node_modules/react-native-image-picker/android/build/generated/source/codegen/jni/CMakeLists.txt:
+  Imported target "ReactAndroid::folly_runtime" includes non-existent path
+
+    "/home/bi1466/.gradle/caches/transforms-3/158b871a21f85526704b0e97f3449ad0/transformed/jetified-react-android-0.73.4-release/prefab/modules/folly_runtime/include"
+
+  in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+
+  * The path was deleted, renamed, or moved to another location.
+
+  * An install or uninstall procedure did not complete successfully.
+
+  * The installation package was faulty and references files it does not
+  provide.
+
+
+
+CMake Error in /home/bi1466/sowmiya/Messenger/QuickChat/node_modules/react-native-linear-gradient/android/build/generated/source/codegen/jni/CMakeLists.txt:
+  Imported target "ReactAndroid::folly_runtime" includes non-existent path
+
+    "/home/bi1466/.gradle/caches/transforms-3/158b871a21f85526704b0e97f3449ad0/transformed/jetified-react-android-0.73.4-release/prefab/modules/folly_runtime/include"
+
+  in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+
+  * The path was deleted, renamed, or moved to another location.
+
+  * An install or uninstall procedure did not complete successfully.
+
+  * The installation package was faulty and references files it does not
+  provide.
+
+
+
+CMake Error in /home/bi1466/sowmiya/Messenger/QuickChat/node_modules/react-native-pager-view/android/build/generated/source/codegen/jni/CMakeLists.txt:
+  Imported target "ReactAndroid::folly_runtime" includes non-existent path
+
+    "/home/bi1466/.gradle/caches/transforms-3/158b871a21f85526704b0e97f3449ad0/transformed/jetified-react-android-0.73.4-release/prefab/modules/folly_runtime/include"
+
+  in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+
+  * The path was deleted, renamed, or moved to another location.
+
+  * An install or uninstall procedure did not complete successfully.
+
+  * The installation package was faulty and references files it does not
+  provide.
+
+
+
+CMake Error in /home/bi1466/sowmiya/Messenger/QuickChat/node_modules/react-native-safe-area-context/android/src/main/jni/CMakeLists.txt:
+  Imported target "ReactAndroid::folly_runtime" includes non-existent path
+
+    "/home/bi1466/.gradle/caches/transforms-3/158b871a21f85526704b0e97f3449ad0/transformed/jetified-react-android-0.73.4-release/prefab/modules/folly_runtime/include"
+
+  in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+
+  * The path was deleted, renamed, or moved to another location.
+
+  * An install or uninstall procedure did not complete successfully.
+
+  * The installation package was faulty and references files it does not
+  provide.
+
+
+
+CMake Error in /home/bi1466/sowmiya/Messenger/QuickChat/node_modules/react-native-screens/android/src/main/jni/CMakeLists.txt:
+  Imported target "ReactAndroid::folly_runtime" includes non-existent path
+
+    "/home/bi1466/.gradle/caches/transforms-3/158b871a21f85526704b0e97f3449ad0/transformed/jetified-react-android-0.73.4-release/prefab/modules/folly_runtime/include"
+
+  in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+
+  * The path was deleted, renamed, or moved to another location.
+
+  * An install or uninstall procedure did not complete successfully.
+
+  * The installation package was faulty and references files it does not
+  provide.
+
+
+
+CMake Error in /home/bi1466/sowmiya/Messenger/QuickChat/node_modules/react-native-vector-icons/android/build/generated/source/codegen/jni/CMakeLists.txt:
+  Imported target "ReactAndroid::folly_runtime" includes non-existent path
+
+    "/home/bi1466/.gradle/caches/transforms-3/158b871a21f85526704b0e97f3449ad0/transformed/jetified-react-android-0.73.4-release/prefab/modules/folly_runtime/include"
+
+  in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+
+  * The path was deleted, renamed, or moved to another location.
+
+  * An install or uninstall procedure did not complete successfully.
+
+  * The installation package was faulty and references files it does not
+  provide.
+
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.
+ninja: error: rebuilding 'build.ninja': subcommand failed
